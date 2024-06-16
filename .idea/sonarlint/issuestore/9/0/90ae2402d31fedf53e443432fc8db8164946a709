@@ -1,0 +1,11 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·’„ÿÿÿÿÿ
+M
+java:S1854'"7Remove this useless assignment to local variable "bot".(תתל
+>
+java:S1481'"(Remove this unused "bot" local variable.(תתל
+@	java:S106)"+Replace this use of System.out by a logger.(ÿƒ®כ
+J
+java:S1128"4Remove this unused import 'net.dv8tion.jda.api.JDA'.(ֳענכ
+V
+java:S1128";Remove this unused import 'net.dv8tion.jda.api.JDABuilder'.(Ê×ךש‏ÿÿÿÿ
