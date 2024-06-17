@@ -1,7 +1,10 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ‡½Îøÿÿÿÿ8¹í¤µ‚2J$75b5f20f-eed2-4010-8796-c950ba60d743
-~	java:S125/"<This block of commented-out lines of code should be removed.(­‘êÍ8«‘¥µ‚2J$b3eb3f72-0e4b-45db-82a0-dadadfc7f15f
+~	java:S1251"<This block of commented-out lines of code should be removed.(­‘êÍ8õÈŠ¼‚2J$fe4cc202-00bd-44d6-a6fe-b1b3cfb7fe83
 
-java:S1128"JRemove this unused import 'net.dv8tion.jda.api.events.session.ReadyEvent'.(¬«¨²8Óí¤µ‚2J$c33c3eca-2354-4bc6-ad03-34d70b6d27b4
+java:S1128"JRemove this unused import 'net.dv8tion.jda.api.events.session.ReadyEvent'.(¬«¨²8÷ÈŠ¼‚2J$d3e828f4-064a-4f19-bc01-309226156d0c
+”
+java:S1128"QRemove this unused import 'net.dv8tion.jda.api.interactions.commands.OptionType'.(‰…³8÷ÈŠ¼‚2J$c0f72329-4e12-4ecd-8599-a29ccd350356
+Ÿ
+java:S1128"WRemove this unused import 'net.dv8tion.jda.api.interactions.commands.build.OptionData'.(ÞŽ­öúÿÿÿÿ8÷ÈŠ¼‚2J$659b389c-2bcc-471d-beab-d34dff327924
 n
-java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8Óí¤µ‚2J$8a8dd297-4451-4e36-b5ee-874693336aa9
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8÷ÈŠ¼‚2J$f01e8b03-3ea7-4d15-aacd-e40b11fc2645

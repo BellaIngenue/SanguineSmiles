@@ -1,11 +1,10 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·’„ÿÿÿÿÿ8ÓŠÜ”‚2J$ceea89ac-6771-455f-be67-4874c4560e51
 z
-java:S18541"7Remove this useless assignment to local variable "bot".(úúì8åŠÜ”‚2J$61389550-5023-4130-b014-31e400b1603f
+java:S1854C"7Remove this useless assignment to local variable "bot".(úúì8Âò½‚2J$cdc29e1d-4cc5-4155-a5ff-a33b11e7e4ca
 k
-java:S14811"(Remove this unused "bot" local variable.(úúì8æŠÜ”‚2J$dee22a5f-26e1-4cef-a627-867a976d15ce
-m	java:S1063"+Replace this use of System.out by a logger.(ÿƒ®ë8èŠÜ”‚2J$0bb674a1-8d52-4ae0-a279-40587c74bb7c
+java:S1481C"(Remove this unused "bot" local variable.(úúì8Ãò½‚2J$8be69e66-9def-473d-8d64-8b8db5a51be7
+m	java:S106E"+Replace this use of System.out by a logger.(ÿƒ®ë8Äò½‚2J$5d96fe07-f864-4939-9183-e6197925003d
 Q
-java:S1128"4Remove this unused import 'net.dv8tion.jda.api.JDA'.(Ãòğë8ëÉ‘µ‚2
+java:S1128"4Remove this unused import 'net.dv8tion.jda.api.JDA'.(Ãòğë8‹Š‚½‚2
 ]
-java:S1128";Remove this unused import 'net.dv8tion.jda.api.JDABuilder'.(Êªêùşÿÿÿÿ8ëÉ‘µ‚2
+java:S1128";Remove this unused import 'net.dv8tion.jda.api.JDABuilder'.(Êªêùşÿÿÿÿ8‹Š‚½‚2
