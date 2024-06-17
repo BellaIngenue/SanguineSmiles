@@ -8,3 +8,5 @@ w
 Gsrc/main/java/io/github/bellaingenue/SanguineSmiles/SanguineSmiles.java,9\0\90ae2402d31fedf53e443432fc8db8164946a709
 €
 Psrc/main/java/io/github/bellaingenue/SanguineSmiles/listeners/EventListener.java,1\2\12746c07c06ccd69f0f470e606b4a83c62987fe4
+€
+Psrc/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java,c\b\cb9a4698a3618453517651d129ff1b9b10c493cd
