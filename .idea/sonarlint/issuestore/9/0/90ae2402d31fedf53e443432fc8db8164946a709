@@ -1,10 +1,7 @@
 
-z
-java:S1854C"7Remove this useless assignment to local variable "bot".(úúì8Âò½‚2J$cdc29e1d-4cc5-4155-a5ff-a33b11e7e4ca
-k
-java:S1481C"(Remove this unused "bot" local variable.(úúì8Ãò½‚2J$8be69e66-9def-473d-8d64-8b8db5a51be7
-m	java:S106E"+Replace this use of System.out by a logger.(ÿƒ®ë8Äò½‚2J$5d96fe07-f864-4939-9183-e6197925003d
-Q
-java:S1128"4Remove this unused import 'net.dv8tion.jda.api.JDA'.(Ãòğë8‹Š‚½‚2
-]
-java:S1128";Remove this unused import 'net.dv8tion.jda.api.JDABuilder'.(Êªêùşÿÿÿÿ8‹Š‚½‚2
+d
+java:S1481D"(Remove this unused "bot" local variable.(úúìJ$4bc5a48c-28fb-4e6b-8b60-7dc0492e0116
+p
+java:S1128"4Remove this unused import 'net.dv8tion.jda.api.JDA'.(ÃòğëJ$bae6729c-d320-4318-85ba-69ef948b89fc
+|
+java:S1128";Remove this unused import 'net.dv8tion.jda.api.JDABuilder'.(ÊªêùşÿÿÿÿJ$b08c9f4c-cef0-4969-b32a-3fd6b73b84d7

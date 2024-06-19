@@ -1,5 +1,7 @@
 package io.github.bellaingenue.SanguineSmiles.commands;
 
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.guild.GuildReadyEvent;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
@@ -12,13 +14,16 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 import java.awt.*;
+import java.io.File;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 public class RandomQuote extends ListenerAdapter {
-    String[] quotes = {
+    String[] quotesOld = {
             "Be yourself; everyone else is already taken.― Oscar Wilde",
             "A room without books is like a body without a soul. ― Marcus Tullius Cicero",
             "Be the change that you wish to see in the world. ― Mahatma Gandhi",
@@ -32,18 +37,66 @@ public class RandomQuote extends ListenerAdapter {
             "Strive not to be a success, but rather to be of value. –Albert Einstein",
     };
 
+
+    public static void main(String[] args) {
+        try {
+            String randomQuote = getRandomQuote("quotes.txt");
+            System.out.println(randomQuote);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static String getRandomQuote(String filePath) throws IOException {
+        List<String> quotes = new ArrayList<>();
+
+        // Read all lines from the text file
+        List<String> lines = Files.readAllLines(Paths.get(filePath));
+
+        // Concatenate lines to form quotes
+        StringBuilder quoteBuilder = new StringBuilder();
+        for (String line : lines) {
+            if (line.trim().isEmpty()) {
+                // Add the built quote to the list
+                if (!quoteBuilder.isEmpty()) {
+                    quotes.add(quoteBuilder.toString().trim());
+                    quoteBuilder.setLength(0);
+                }
+            } else {
+                // Append the line to the current quote
+                quoteBuilder.append(line).append(" ");
+            }
+        }
+        // Add the last quote if any
+        if (!quoteBuilder.isEmpty()) {
+            quotes.add(quoteBuilder.toString().trim());
+        }
+
+        // Check if quotes were added
+        if (quotes.isEmpty()) {
+            throw new IOException("No quotes found in the file.");
+        }
+
+        // Get a random quote
+        Random random = new Random();
+        return quotes.get(random.nextInt(quotes.size()));
+    }
+
     @Override
     public void onSlashCommandInteraction(SlashCommandInteractionEvent event) {
         String command = event.getName();
         if (command.equals("quote")){
-            Random rand = new Random();
-            int n = rand.nextInt(quotes.length-1);
-            String random = quotes[n];
+            String randomQuote = null;
+            try {
+                randomQuote = getRandomQuote("quotes.txt");
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
             EmbedBuilder embed = new EmbedBuilder();
             embed.setTitle("Happiness Quotes");
             embed.setDescription("Let's get a Random Happiness Quote!!");
-            embed.addField("Happiness Quote:",random, false);
-            embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
+            embed.addField("Happiness Quote: ",randomQuote, false);
+            embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/quotes.gif");
             embed.setColor(Color.lightGray);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();

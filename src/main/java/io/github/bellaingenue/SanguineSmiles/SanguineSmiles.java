@@ -47,6 +47,7 @@ public class SanguineSmiles {
                 new CommandManager(),
                 new Mindfulness(),
                 new RandomQuote(),
+                new RandomFact(),
                 new BreathingActivity(),
                 new UserInformation()
         );
