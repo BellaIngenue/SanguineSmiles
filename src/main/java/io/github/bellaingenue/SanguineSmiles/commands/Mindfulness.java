@@ -40,7 +40,8 @@ public class Mindfulness extends ListenerAdapter{
             embed.setTitle("Mindful Activity");
             embed.setDescription("Let's do a Mindful Activity Together!!");
             embed.addField("Mindful Activity:",random, false);
-            embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/mindfulness.gif");
+            embed.setImage(String.valueOf(this.getClass().getResource("mindful.gif")));
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
             embed.setColor(Color.white);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();

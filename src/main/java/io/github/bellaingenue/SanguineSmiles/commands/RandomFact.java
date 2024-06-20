@@ -43,7 +43,8 @@ public class RandomFact extends ListenerAdapter {
             embed.setTitle("Random Fact");
             embed.setDescription("Let's get a Random Fact!");
             embed.addField("Random Fact: ", randomFact, false);
-            embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/facts.gif");
+            embed.setImage(String.valueOf(this.getClass().getResource("facts.gif")));
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
             embed.setColor(Color.gray);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();

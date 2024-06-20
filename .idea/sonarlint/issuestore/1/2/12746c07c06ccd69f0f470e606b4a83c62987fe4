@@ -1,0 +1,9 @@
+
+[
+java:S1128">Remove this unused import 'net.dv8tion.jda.api.entities.User'.(²¥¶Ξ8ξ¨¦°ƒ2
+ƒ
+java:S1128"aRemove this unused import 'net.dv8tion.jda.api.entities.channel.unions.DefaultGuildChannelUnion'.(Νƒθύÿÿÿÿ8ξ¨¦°ƒ2
+
+java:S1128"]Remove this unused import 'net.dv8tion.jda.api.events.message.react.MessageReactionAddEvent'.(ΟÒ›†ϊÿÿÿÿ8ξ¨¦°ƒ2
+`
+java:S1128">Remove this unused import 'org.jetbrains.annotations.NotNull'.(ι®οψÿÿÿÿ8ξ¨¦°ƒ2

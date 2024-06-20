@@ -36,17 +36,6 @@ public class RandomQuote extends ListenerAdapter {
             "Whatever the mind of man can conceive and believe, it can achieve. –Napoleon Hill",
             "Strive not to be a success, but rather to be of value. –Albert Einstein",
     };
-
-
-    public static void main(String[] args) {
-        try {
-            String randomQuote = getRandomQuote("quotes.txt");
-            System.out.println(randomQuote);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
     public static String getRandomQuote(String filePath) throws IOException {
         List<String> quotes = new ArrayList<>();
 
@@ -96,7 +85,8 @@ public class RandomQuote extends ListenerAdapter {
             embed.setTitle("Happiness Quotes");
             embed.setDescription("Let's get a Random Happiness Quote!!");
             embed.addField("Happiness Quote: ",randomQuote, false);
-            embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/quotes.gif");
+            embed.setImage(String.valueOf(this.getClass().getResource("quotes.gif")));
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
             embed.setColor(Color.lightGray);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();
@@ -110,7 +100,5 @@ public class RandomQuote extends ListenerAdapter {
         commandData.add(Commands.slash("quote", "Use this Command to get a Random Happiness Quote!"));
         event.getGuild().updateCommands().addCommands(commandData).queue();
     }
-
-
 
 }

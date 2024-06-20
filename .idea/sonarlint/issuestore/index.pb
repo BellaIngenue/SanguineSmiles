@@ -26,3 +26,5 @@ Qsrc/main/java/io/github/bellaingenue/SanguineSmiles/commands/UserInformation.ja
 Msrc/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomQuote.java,c\5\c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81
 ;
 quotes.json,f\9\f97b4d14a7748fc1dc3a0ad6a7e0f690bfcc2da1
+€
+Psrc/main/java/io/github/bellaingenue/SanguineSmiles/listeners/EventListener.java,1\2\12746c07c06ccd69f0f470e606b4a83c62987fe4

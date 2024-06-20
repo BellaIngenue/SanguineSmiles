@@ -5,42 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9a7021-f565-4060-b1d9-ff97ab1a09e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/768b65000999637707f81bd7075dda900cca0d6a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/986905d8c50ab57fdf37d167536accb550eb700b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a396cbd6ae7b00f98e86672173a20d674102eecf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/6/768b65000999637707f81bd7075dda900cca0d6a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/8/986905d8c50ab57fdf37d167536accb550eb700b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/3/a396cbd6ae7b00f98e86672173a20d674102eecf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facts.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mindful.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quotes.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quotes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12746c07c06ccd69f0f470e606b4a83c62987fe4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f69d8736ddba89abc3d196efad84ccb109683f5" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/breathe8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/facts.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mindful.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mindfulness.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/quotes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/waiting.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e2348b6a5dadf0ecfcd481c10c6cfb1253cf1b5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e2348b6a5dadf0ecfcd481c10c6cfb1253cf1b5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae2402d31fedf53e443432fc8db8164946a709" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae2402d31fedf53e443432fc8db8164946a709" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ed9cfd0441a4c64a7fd05fa1e42555bddb447d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ed9cfd0441a4c64a7fd05fa1e42555bddb447d4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b67284294a369be0e170f4fafa53682c89ee7d21" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b67284294a369be0e170f4fafa53682c89ee7d21" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/12746c07c06ccd69f0f470e606b4a83c62987fe4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/f/5f69d8736ddba89abc3d196efad84ccb109683f5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/SanguineSmiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/SanguineSmiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mindful.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quotes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/BreathingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/BreathingActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/Mindfulness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/Mindfulness.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomFact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomFact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomQuote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/UserInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/UserInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/listeners/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/listeners/EventListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +46,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2i6UQLg0vpioTRuKHAMaeEHdrIb" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,16 +62,22 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.SanguineSmiles.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.SanguineSmiles.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT" />
+      <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="SanguineSmilesBOT" />

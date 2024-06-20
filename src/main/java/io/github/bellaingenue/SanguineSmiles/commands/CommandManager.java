@@ -30,6 +30,7 @@ public class CommandManager extends ListenerAdapter {
             embed.addField("Random Quote", "Use the Fact Command to get a Random Fact of the Day!", false);
             embed.addField("Random Happy Quote", "Use the Quote Command to get a Random Quote!", false);
             embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo_Large.png");
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
             embed.setColor(Color.lightGray);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();
