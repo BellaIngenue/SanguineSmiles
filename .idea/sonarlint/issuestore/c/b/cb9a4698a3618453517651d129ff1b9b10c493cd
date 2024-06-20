@@ -1,10 +1,12 @@
 
-~	java:S1252"<This block of commented-out lines of code should be removed.(­‘êÍ8äÒ±°ƒ2J$c34c1dd3-7b4f-4cda-a8ae-a901ab8842fc
+~	java:S1253"<This block of commented-out lines of code should be removed.(­‘êÍ8ıÎû½ƒ2J$a842999c-96d1-4dc5-b838-edcea5ecc84d
 
-java:S1128"JRemove this unused import 'net.dv8tion.jda.api.events.session.ReadyEvent'.(¬«¨²8åÒ±°ƒ2J$3882663b-92ba-4de4-9e88-e12f712cb6ea
+java:S1128"JRemove this unused import 'net.dv8tion.jda.api.events.session.ReadyEvent'.(¬«¨²8úëû½ƒ2J$93f98d64-07ea-40d8-9143-89a283a7973a
 ”
-java:S1128"QRemove this unused import 'net.dv8tion.jda.api.interactions.commands.OptionType'.(‰…³8åÒ±°ƒ2J$63530884-ce93-41e7-8a69-942ce0605147
+java:S1128"QRemove this unused import 'net.dv8tion.jda.api.interactions.commands.OptionType'.(‰…³8úëû½ƒ2J$9ebb09c9-7df1-4a02-988c-58bc74bd14bf
 Ÿ
-java:S1128"WRemove this unused import 'net.dv8tion.jda.api.interactions.commands.build.OptionData'.(Ş­öúÿÿÿÿ8åÒ±°ƒ2J$ccc03327-170f-4274-9f9b-35083c402d75
+java:S1128"WRemove this unused import 'net.dv8tion.jda.api.interactions.commands.build.OptionData'.(Ş­öúÿÿÿÿ8ûëû½ƒ2J$39f1093b-9ab7-4d89-94f9-4524748e71ee
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8„òŒ¾ƒ2
 n
-java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8åÒ±°ƒ2J$0efabd3b-086f-4bcc-96f4-ef2a2a41697a
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8ûëû½ƒ2J$d79b453c-0923-4a66-a8d9-89d65efaf589

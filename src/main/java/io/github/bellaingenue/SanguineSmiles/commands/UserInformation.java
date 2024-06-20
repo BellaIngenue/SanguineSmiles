@@ -16,7 +16,7 @@ public class UserInformation extends ListenerAdapter {
     @Override
     public void onSlashCommandInteraction(SlashCommandInteractionEvent event) {
         String command = event.getName();
-        if (command.equals("info")){
+        if (command.equals("smile")){
             EmbedBuilder embed = new EmbedBuilder();
             embed.setTitle("SanguineSmiles Information Desk");
             embed.setDescription("Get Information about SanguineSmiles!!");
@@ -26,7 +26,7 @@ public class UserInformation extends ListenerAdapter {
             embed.addField("Random Quote", "Use the Fact Command to get a Random Fact of the Day!", false);
             embed.addField("Random Happy Quote", "Use the Quote Command to get a Random Quote!", false);
             embed.setImage(String.valueOf(this.getClass().getResource("waiting.gif")));
-            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
+            embed.setThumbnail(String.valueOf(this.getClass().getResource("Logo.png")));
             embed.setColor(Color.yellow);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();
@@ -38,7 +38,7 @@ public class UserInformation extends ListenerAdapter {
     @Override
     public void onGuildReady(@NotNull GuildReadyEvent event) {
         List<CommandData> commandData = new ArrayList<>();
-        commandData.add(Commands.slash("info", "Use this Command to get Bot Information!!"));
+        commandData.add(Commands.slash("smile", "Use this Command to get Bot Information!!"));
         event.getGuild().updateCommands().addCommands(commandData).queue();
     }
 }

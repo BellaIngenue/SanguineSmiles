@@ -30,7 +30,7 @@ public class BreathingActivity extends ListenerAdapter {
             embed.setDescription("Let's do a Breathing Exercise Together!!");
             embed.addField("Mindful Activity:",random, false);
             embed.setImage(String.valueOf(this.getClass().getResource(random)));
-            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
+            embed.setThumbnail(String.valueOf(this.getClass().getResource("Logo.png")));
             embed.setColor(Color.white);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();

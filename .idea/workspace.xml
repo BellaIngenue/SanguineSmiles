@@ -5,38 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a9a7021-f565-4060-b1d9-ff97ab1a09e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/breathe1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/breathe8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/facts.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mindful.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/mindfulness.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/quotes.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/waiting.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e2348b6a5dadf0ecfcd481c10c6cfb1253cf1b5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e2348b6a5dadf0ecfcd481c10c6cfb1253cf1b5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae2402d31fedf53e443432fc8db8164946a709" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae2402d31fedf53e443432fc8db8164946a709" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ed9cfd0441a4c64a7fd05fa1e42555bddb447d4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ed9cfd0441a4c64a7fd05fa1e42555bddb447d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/Logo_Large.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mindful.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/breathe8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/facts.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/facts.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mindful.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/mindful.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/mindfulness.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/mindfulness.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/quotes.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/quotes.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/waiting.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/waiting.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/BreathingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/BreathingActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/Mindfulness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/Mindfulness.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomFact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomFact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/RandomQuote.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/UserInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/UserInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/listeners/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/listeners/EventListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +67,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT\src\main" />
       <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT" />
       <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT\src" />
     </key>
@@ -106,5 +100,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

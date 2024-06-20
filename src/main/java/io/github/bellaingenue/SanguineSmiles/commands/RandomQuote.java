@@ -86,7 +86,7 @@ public class RandomQuote extends ListenerAdapter {
             embed.setDescription("Let's get a Random Happiness Quote!!");
             embed.addField("Happiness Quote: ",randomQuote, false);
             embed.setImage(String.valueOf(this.getClass().getResource("quotes.gif")));
-            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/Logo.png");
+            embed.setThumbnail(String.valueOf(this.getClass().getResource("Logo.png")));
             embed.setColor(Color.lightGray);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();
