@@ -30,8 +30,10 @@ public class CommandManager extends ListenerAdapter {
             embed.addField("Breathing Exercises", "Use the Breathe Command to get a Random Breathing Exercise!", false);
             embed.addField("Random Quote", "Use the Fact Command to get a Random Fact of the Day!", false);
             embed.addField("Random Happy Quote", "Use the Quote Command to get a Random Quote!", false);
-            embed.setImage("attachment://Logo_Large.png");
-            embed.setThumbnail("attachment://Logo.png");
+            // embed.setImage("https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/Logo_Large.png");
+            // embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/Logo.png");
+            embed.setImage("Logo_Large.png");
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/Logo.png");
             embed.setColor(Color.lightGray);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();

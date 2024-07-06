@@ -11,11 +11,19 @@ import org.jetbrains.annotations.NotNull;
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Random;
 
 public class BreathingActivity extends ListenerAdapter {
 
-    String[] gif = {"breathe1.gif","breathe2.gif", "breathe3.gif", "breathe4.gif","breathe5.gif", "breathe6.gif", "breathe7.gif","breathe8.gif"};
+    String[] gif = {"https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe1.gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe2.gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe3.gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/beathe4gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe5.gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe6.gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe7.gif",
+            "https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/breathe8.gif"};
 
 
     @Override
@@ -29,8 +37,8 @@ public class BreathingActivity extends ListenerAdapter {
             embed.setTitle("Breathing Exercise");
             embed.setDescription("Let's do a Breathing Exercise Together!!");
             embed.addField("Mindful Activity:",random, false);
-            embed.setImage(String.valueOf(this.getClass().getResource(random)));
-            embed.setThumbnail(String.valueOf(this.getClass().getResource("Logo.png")));
+            embed.setImage(random);
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/Logo.png");
             embed.setColor(Color.white);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();

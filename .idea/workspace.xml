@@ -4,26 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a9a7021-f565-4060-b1d9-ff97ab1a09e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/assets/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/assets/Logo_Large.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" afterDir="false" />
+    <list default="true" id="efad90c0-95f4-440f-b57f-999d178d24f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/12746c07c06ccd69f0f470e606b4a83c62987fe4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e2348b6a5dadf0ecfcd481c10c6cfb1253cf1b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/768b65000999637707f81bd7075dda900cca0d6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90ae2402d31fedf53e443432fc8db8164946a709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/986905d8c50ab57fdf37d167536accb550eb700b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9ed9cfd0441a4c64a7fd05fa1e42555bddb447d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a396cbd6ae7b00f98e86672173a20d674102eecf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b67284294a369be0e170f4fafa53682c89ee7d21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f97b4d14a7748fc1dc3a0ad6a7e0f690bfcc2da1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/2/12746c07c06ccd69f0f470e606b4a83c62987fe4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/e/6e2348b6a5dadf0ecfcd481c10c6cfb1253cf1b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/6/768b65000999637707f81bd7075dda900cca0d6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/0/90ae2402d31fedf53e443432fc8db8164946a709" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/8/986905d8c50ab57fdf37d167536accb550eb700b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/e/9ed9cfd0441a4c64a7fd05fa1e42555bddb447d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/3/a396cbd6ae7b00f98e86672173a20d674102eecf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/6/b67284294a369be0e170f4fafa53682c89ee7d21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/5/c561aa0571e2ae9e9ba1e4ae0b52c24dbb7b6f81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/b/cb9a4698a3618453517651d129ff1b9b10c493cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/daabd7cf642020e9aa0eef521a42fe4e67e8b8f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/9/f97b4d14a7748fc1dc3a0ad6a7e0f690bfcc2da1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe3.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe4.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe5.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe6.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe7.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/breathe8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/breathe8.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/facts.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/facts.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mindful.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/mindful.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/mindfulness.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/mindfulness.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/quotes.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/quotes.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/waiting.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/assets/waiting.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/BreathingActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/BreathingActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/CommandManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/Mindfulness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/bellaingenue/SanguineSmiles/commands/Mindfulness.java" afterDir="false" />
@@ -39,14 +56,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2i6UQLg0vpioTRuKHAMaeEHdrIb" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2iEhKv5TkN5SCjaxqTOAC3ZVDzd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,60 +69,22 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.SanguineSmiles.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT\src\main" />
-      <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT" />
-      <recent name="C:\Users\siena\OneDrive\Documents\GitHub\SanguineSmilesBOT\src" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="SanguineSmilesBOT" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="SanguineSmilesBOT" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a9a7021-f565-4060-b1d9-ff97ab1a09e7" name="Changes" comment="" />
-      <created>1718810503241</created>
+      <changelist id="efad90c0-95f4-440f-b57f-999d178d24f9" name="Changes" comment="" />
+      <created>1719061584944</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1718810503241</updated>
+      <updated>1719061584944</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

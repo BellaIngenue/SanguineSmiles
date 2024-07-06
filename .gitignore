@@ -39,3 +39,6 @@ build/
 
 ### Bot Information ###
 .env
+/.idea/sonarlint
+/.idea
+*.xml

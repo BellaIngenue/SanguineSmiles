@@ -25,8 +25,8 @@ public class UserInformation extends ListenerAdapter {
             embed.addField("Breathing Exercises", "Use the Breathe Command to get a Random Breathing Exercise!", false);
             embed.addField("Random Quote", "Use the Fact Command to get a Random Fact of the Day!", false);
             embed.addField("Random Happy Quote", "Use the Quote Command to get a Random Quote!", false);
-            embed.setImage(String.valueOf(this.getClass().getResource("waiting.gif")));
-            embed.setThumbnail(String.valueOf(this.getClass().getResource("Logo.png")));
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/waiting.gif");
+            embed.setThumbnail("https://github.com/BellaIngenue/SanguineSmiles/blob/master/src/main/assets/Logo.png");
             embed.setColor(Color.yellow);
             embed.setFooter("Bot created by @bellaingenue");
             event.replyEmbeds(embed.build()).queue();
